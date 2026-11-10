@@ -1,0 +1,38 @@
+
+ZOMATO DATA CLEANING REPORT
+===========================
+
+Original Records: 9551
+
+Final Records: 9551
+
+Total Columns: 21
+
+Duplicate Records Removed: 0
+
+Missing Values Before Cleaning: 9
+
+Missing Values After Cleaning: 0
+
+Average Restaurant Rating: 2.67
+
+Average Cost for Two: 1199.21
+
+Total Cities: 141
+
+Total Restaurants: 9551
+
+DATA CLEANING OPERATIONS
+------------------------
+
+1. Loaded the Zomato dataset.
+2. Checked missing values.
+3. Removed duplicate records.
+4. Handled missing cuisine values.
+5. Standardized text columns.
+6. Converted numerical columns.
+7. Handled invalid numerical values.
+8. Saved the cleaned dataset.
+9. Generated visual reports.
+
+STATUS: DATA CLEANING COMPLETED
